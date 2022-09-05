@@ -1,9 +1,9 @@
-packge main
+package main
 
 import "fmt"
 
 func main(){
   
-	fmt.println("hello git and hello go!")
+	fmt.Println("hello git and hello go!")
 
 }
